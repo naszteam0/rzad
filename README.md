@@ -1,4 +1,0 @@
-rzad
-====
-
-Game about politics.
